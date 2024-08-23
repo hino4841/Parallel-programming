@@ -1,0 +1,5 @@
+﻿  Task5.cpp
+h:\semester2\hpc\hpc project\task5\task5\task5.cpp(81): warning C4244: '=': conversion from 'double' to 'clock_t', possible loss of data
+h:\semester2\hpc\hpc project\task5\task5\task5.cpp(11): warning C4101: 'num': unreferenced local variable
+  Task5.vcxproj -> H:\semester2\HPC\HPC project\Task5\Debug\Task5.exe
+  Task5.vcxproj -> H:\semester2\HPC\HPC project\Task5\Debug\Task5.pdb (Partial PDB)
